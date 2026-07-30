@@ -1,6 +1,6 @@
 # Wappa-5-Performance
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 217 mods, 23 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.235**, 218 mods, 23 resource packs
 
 ## Contents
 
@@ -152,6 +152,7 @@
 - [Packet Fixer](https://modrinth.com/project/packet-fixer) `3.3.1`
 - [PaintersInc](https://modrinth.com/project/paintersinc) `2.0.0`
 - [Particle Effects Reforged](https://modrinth.com/project/particle-effects-reforged) `1.0.1`
+- [Particular ✨ Reforged](https://modrinth.com/project/particular-reforged)
 - [Penchant](https://modrinth.com/project/penchant) `0.3.7+connector+mc1.21.1`
 - [Personality](https://modrinth.com/project/personality!) `5.0.2`
 - [Pet Cemetery](https://modrinth.com/project/pet-cemetery) `3.0.1`

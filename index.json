@@ -537,6 +537,10 @@
       "sha1": "91c716684e9f371852c25daf8dd8c6b5256388c0"
     },
     {
+      "path": "content/mods/particular-reforged.json",
+      "sha1": "59a8eead136dba12e43460c103b4639798604d3e"
+    },
+    {
       "path": "content/mods/penchant.json",
       "sha1": "ab2a84bfdedcc39f6be2bc7ec3cd9fc452f9a5bd"
     },
@@ -3091,10 +3095,6 @@
     {
       "path": "overrides/modpack.url",
       "sha1": "83d4cfe5b6281cb949cad92dfe8aa6a1de5a97a4"
-    },
-    {
-      "path": "overrides/mods/grassiergrass-neoforge-1.4.5-patched.2+mc1.21.1.jar",
-      "sha1": "32d9e43cd6232f4f2a77382b442fe767f03d6e5c"
     },
     {
       "path": "overrides/mods/spawn_dh_fix-1.0.0.jar",

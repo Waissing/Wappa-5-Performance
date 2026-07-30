@@ -1,0 +1,16 @@
+{
+  "name": "Particular ✨ Reforged",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "pYFUU6cq",
+      "slug": "particular-reforged"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

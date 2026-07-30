@@ -1,6 +1,6 @@
 # Wappa-5-Performance
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 218 mods, 23 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.235**, 219 mods, 23 resource packs
 
 ## Contents
 
@@ -67,6 +67,7 @@
 - [Create: Framed](https://modrinth.com/project/create-framed) `1.8.2+1.21.1`
 - [Create: Oxidized](https://modrinth.com/project/create_oxidized) `0.1.3`
 - [Create: Pattern Schematics](https://modrinth.com/project/create-pattern-schematics) `2.0.10`
+- [Create: Vibrant Vaults](https://modrinth.com/project/create-vibrant-vaults)
 - [Creature Feature](https://modrinth.com/project/creature-feature) `1.1.3`
 - [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `3.0.0+1.21`
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
@@ -152,7 +153,7 @@
 - [Packet Fixer](https://modrinth.com/project/packet-fixer) `3.3.1`
 - [PaintersInc](https://modrinth.com/project/paintersinc) `2.0.0`
 - [Particle Effects Reforged](https://modrinth.com/project/particle-effects-reforged) `1.0.1`
-- [Particular ✨ Reforged](https://modrinth.com/project/particular-reforged)
+- [Particular ✨ Reforged](https://modrinth.com/project/particular-reforged) `1.5.5`
 - [Penchant](https://modrinth.com/project/penchant) `0.3.7+connector+mc1.21.1`
 - [Personality](https://modrinth.com/project/personality!) `5.0.2`
 - [Pet Cemetery](https://modrinth.com/project/pet-cemetery) `3.0.1`

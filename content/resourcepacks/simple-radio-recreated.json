@@ -1,0 +1,24 @@
+{
+  "name": "Simple Radio Re-Created",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LLr1ScTK",
+      "pin": "bCmTuXND",
+      "slug": "simple-radio-recreated",
+      "versionId": "bCmTuXND",
+      "versionNumber": "1.0",
+      "filename": "Simple Radio Re-Created 1.0.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/LLr1ScTK/versions/bCmTuXND/Simple%20Radio%20Re-Created%201.0.zip",
+      "sha1": "9596dd5a0f6cea0adcb93d4c3f8264d4ea9cc95c",
+      "sha512": "656392ead6e2cabaf96b5a32593198ee1625b603aaf7e4f104e97d8a6e4a89b03bee8f5a065ca065afc3cec024e6a860a2cd55c6cba2b5837decb62b4ce85a24",
+      "fileSize": 152242
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

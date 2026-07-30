@@ -1,0 +1,24 @@
+{
+  "name": "Into the Sun",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "abb8kdPr",
+      "pin": "LI5tWV4V",
+      "slug": "into-the-sun",
+      "versionId": "LI5tWV4V",
+      "versionNumber": "1",
+      "filename": "Into the Sun RP V1 (1.21.1).zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/abb8kdPr/versions/LI5tWV4V/Into%20the%20Sun%20RP%20V1%20%281.21.1%29.zip",
+      "sha1": "6a9754c47002718c05c7393621985fa8fa38ebd5",
+      "sha512": "ebb47f25e01de9dd98be12fc230fc71cc4cdb331830e29c4d0291f8d1fc8a99564382b31a42f8306cab0d6a5319a2e7281ac01c783c8a87e7d9197a8ed1c5133",
+      "fileSize": 523124
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Authentic Shadows",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "kWgq7eAt",
+      "pin": "2g7fYcvg",
+      "slug": "authentic-shadows",
+      "versionId": "2g7fYcvg",
+      "versionNumber": "1.21+",
+      "filename": "Authentic Shadows_1.21+.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/kWgq7eAt/versions/2g7fYcvg/Authentic%20Shadows_1.21%2B.zip",
+      "sha1": "25d7c55757b3bb3e7df2caea42089725cd4d346c",
+      "sha512": "73272db0fade4e5cb1c63a7f813c4b2ec754432de88e1930c556732e0668314ed722be9e162e9284741f1b862743a3f64cc68bb972f2e64625741595dbfdd5e9",
+      "fileSize": 8085
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "(Bee's) Serified Font",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "L0iIXINl",
+      "pin": "HKB3P2R0",
+      "slug": "serified-font",
+      "versionId": "HKB3P2R0",
+      "versionNumber": "1.2",
+      "filename": "Serified Font v1.2.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/L0iIXINl/versions/HKB3P2R0/Serified%20Font%20v1.2.zip",
+      "sha1": "9c9d6510193d0868bde9301c5d04e15537d561d5",
+      "sha512": "0adda142d393cff2a041ac7529a3b846b3a25aac83ea88dacc607af52150f7c3c7cc48b015ea7d1b7866edffcfa5c5363f953af518cd454faa4fea1bdb4de6bc",
+      "fileSize": 43934
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

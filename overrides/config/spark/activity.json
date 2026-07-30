@@ -1,0 +1,93 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "waIs",
+      "uniqueId": "a05eebef-c828-41a3-b517-af73b0f8a569"
+    },
+    "time": 1785030506465,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/YsKLklSh5J"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "waIs",
+      "uniqueId": "a05eebef-c828-41a3-b517-af73b0f8a569"
+    },
+    "time": 1785029698988,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/U4tCtZWVPa"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "waIs",
+      "uniqueId": "a05eebef-c828-41a3-b517-af73b0f8a569"
+    },
+    "time": 1785029336439,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/25GBZOeuc9"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "waIs",
+      "uniqueId": "a05eebef-c828-41a3-b517-af73b0f8a569"
+    },
+    "time": 1785012770618,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/0d2R6RrBlX"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "waIs",
+      "uniqueId": "a05eebef-c828-41a3-b517-af73b0f8a569"
+    },
+    "time": 1784998525164,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/DWVZoZ0wZ0"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "waIs",
+      "uniqueId": "a05eebef-c828-41a3-b517-af73b0f8a569"
+    },
+    "time": 1784998379873,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/gVlDcH4Y74"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "waIs",
+      "uniqueId": "a05eebef-c828-41a3-b517-af73b0f8a569"
+    },
+    "time": 1784593911293,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/SFi0oy5MOF"
+    }
+  }
+]

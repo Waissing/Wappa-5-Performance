@@ -1,0 +1,24 @@
+{
+  "name": "Realistic biomes on java",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ig8vSvoL",
+      "pin": "78liYqsB",
+      "slug": "realistic-biome",
+      "versionId": "78liYqsB",
+      "versionNumber": "Realistic-biomes-alpha-1.0",
+      "filename": "Realistic biomes java alpha.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/ig8vSvoL/versions/78liYqsB/Realistic%20biomes%20java%20alpha.zip",
+      "sha1": "add78542d2d8069d5f0d9f3dc04f17c404954943",
+      "sha512": "3974743d3cc0d431cfebb61baa55faf1beb95191b8d31e5697bbcd2b6aacf0870ec85ae4e459e9c0c79615dc4926171d37db1dea2a88686b0b69dfa6693c48f2",
+      "fileSize": 20218153
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,112 @@
+#The range in which limbs are considered part of a ragdoll
+# Default: 5.0
+# Range: 0.0 ~ 100.0
+limbExclusionDistance = 5.0
+#Time in ticks for the corpse to rot (flies)
+# Default: 10000
+# Range: > 0
+timeToRot = 10000
+#Time in ticks after the entity rots for the entity to be destroyed
+# Default: 10000
+# Range: > 0
+timeToDestroy = 10000
+#Time in ticks to wait for a ragdoll
+# Default: 40
+# Range: > 0
+ragdollTimeout = 40
+#Time in ticks for 1st person effects to transition
+# Default: 10
+# Range: > 0
+firstPersonTransferTicks = 10
+#
+# Default: 0.25
+# Range: 0.0 ~ 2.147483647E9
+ragdollBoxShrink = 0.25
+#Time in ticks it takes for the player corpse to heal
+# Default: 600
+# Range: > 0
+timeToHeal = 600
+#Time in ticks for an entity to stand up
+# Default: 17
+# Range: > 0
+timeToStandUp = 17
+#This is in ticks after the entity is able to stand that a player should be notified they can stand
+# Default: 40
+# Range: > 0
+standUpNotificationTime = 40
+#Time it takes the camera to move into the ragdoll
+# Default: 10
+# Range: > 0
+cameraTimeIn = 10
+#Time it takes the camera to move out of the ragdoll
+# Default: 20
+# Range: > 0
+cameraTimeOutOfRagdoll = 20
+#If items can be put in a corpses inventory
+canPutItemsInCorpse = false
+#If logged out players leave corpse
+logoutRagdoll = false
+#Enable the fade transition, does not support sorting
+fadeTransition = false
+#Safemode prevents entities from ragdolling
+safeMode = false
+#The minimum amount of health an entity corpse can have
+# Default: 1
+# Range: > 1
+minimumCorpseHealth = 1
+#The maximum amount of health an entity corpse can have
+# Default: 30
+# Range: > 0
+maximumCorpseHealth = 30
+#Ticks after death where the corpse is immune
+# Default: 5
+# Range: > 0
+corpseImmunityTicks = 5
+#Percentage of main mob health that the corpse will have
+# Default: 0.05
+# Range: 0.0 ~ 2.147483647E9
+corpseHealthPreservationPercentage = 0.05
+#The percentage of the current damage that will be applied to an item with curse of binding
+# Default: 0.33
+# Range: 0.0 ~ 2.147483647E9
+bindingCurseDamagePercentage = 0.33
+#The threshold where an entity will ragdoll
+# Default: 3.0
+# Range: 0.0 ~ 1.7976931348623157E308
+ragdollAccelerationThreshold = 3.0
+#The threshold where an entity will ragdoll while flying
+# Default: 4.0
+# Range: 0.0 ~ 1.7976931348623157E308
+ragdollElytraAccelerationThreshold = 4.0
+#The velocity an item has to be hit by another ragdoll to ragdoll
+# Default: 6.0
+# Range: 0.0 ~ 1.7976931348623157E308
+ragdollHitVelocityThreshold = 6.0
+#The damage an entity will take from acceleration
+# Default: 0.7
+# Range: 0.0 ~ 1.7976931348623157E308
+ragdollHitDamage = 0.7
+#The max range a ragdoll can be dragged from
+# Default: 4.0
+# Range: 0.0 ~ 1.7976931348623157E308
+maxDragRange = 4.0
+#If mobs leave a ragdoll corpse on death (applies to all mobs, including modded)
+mobDeathRagdolls = true
+#If players leave a corpse holding their inventory on death
+playerDeathCorpse = true
+#If entities hit by a fast-moving ragdoll are flung into a ragdoll themselves
+flungRagdolls = true
+#Half-range in degrees a ragdoll joint may swing from its rest pose on each angular axis. Lower = stiffer, more natural corpses; higher = floppier
+# Default: 40.0
+# Range: 0.0 ~ 180.0
+jointAngularLimitDegrees = 40.0
+#If joints that get twisted past jointBreakAngleDegrees permanently lose their limits (old spaghetti-limb behaviour). Off keeps limbs attached naturally
+breakableJoints = false
+#Angle in degrees past which a breakable joint snaps (only used when breakableJoints is true)
+# Default: 170.0
+# Range: 0.0 ~ 360.0
+jointBreakAngleDegrees = 170.0
+#Multiplier applied to every entity's dismemberment chance from the ragdoll:dismemberment data map. 0 disables dismemberment entirely
+# Default: 1.0
+# Range: 0.0 ~ 10.0
+dismembermentChanceMultiplier = 1.0

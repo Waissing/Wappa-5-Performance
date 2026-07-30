@@ -1,0 +1,24 @@
+{
+  "name": "Low On Fire",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "RRxvWKNC",
+      "pin": "yQdcUfnr",
+      "slug": "low-on-fire",
+      "versionId": "yQdcUfnr",
+      "versionNumber": "26.2",
+      "filename": "LowOnFire v26.2§8.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/RRxvWKNC/versions/yQdcUfnr/LowOnFire%20v26.2%C2%A78.zip",
+      "sha1": "96932a034fff4cd0cad08ba12db730450c4772da",
+      "sha512": "713a20a8171c8249c30d9eb72342162754c627c7a86dc0971cb555faf43c322c181fd5546e0c770fc9ae922161ee846a7af951267c1d9a8a75af466a17e19d5e",
+      "fileSize": 42760
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

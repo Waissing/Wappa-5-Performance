@@ -1,0 +1,24 @@
+{
+  "name": "Tree Physics",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "AlVH5pr8",
+      "pin": "A8FaAOyK",
+      "slug": "tree-physics",
+      "versionId": "A8FaAOyK",
+      "versionNumber": "neoforge-2.3",
+      "filename": "treephysics-neoforge-1.21.1-2.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/AlVH5pr8/versions/A8FaAOyK/treephysics-neoforge-1.21.1-2.3.jar",
+      "sha1": "1393ded54c1f79102a5f6971ea216cb74e33a54a",
+      "sha512": "f0cbad8f2acd661726310690850578dcd3ff4d410f0fb95ee1f819a616089194f0b0068faebde16d8919c19046bab9a1d7e9a0d54941f062280ea59df0efd159",
+      "fileSize": 448865
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

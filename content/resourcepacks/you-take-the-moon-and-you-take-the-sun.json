@@ -1,0 +1,24 @@
+{
+  "name": "You Take the Moon and You Take the Sun",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "YFnqxwD2",
+      "pin": "sCRz2Ka7",
+      "slug": "you-take-the-moon-and-you-take-the-sun",
+      "versionId": "sCRz2Ka7",
+      "versionNumber": "1.0",
+      "filename": "You-Take-the-Moon-and-You-Take-the-Sun.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/YFnqxwD2/versions/sCRz2Ka7/You-Take-the-Moon-and-You-Take-the-Sun.zip",
+      "sha1": "058d435c4aa4061574e86f36a8dbba8d17f4de62",
+      "sha512": "2c683368f9eb9b3dc16fc450fbafba20f54fb1041b44bce71d6bc1ad02767fd746d1434cbf57586044148588965eb4af4c8aa88e20f6bc2862541a9a0cbeb8d9",
+      "fileSize": 6969
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

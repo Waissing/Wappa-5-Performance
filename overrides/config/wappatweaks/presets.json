@@ -1,0 +1,60 @@
+{
+  "_readme": "Wappa 5 performance presets (pack defaults baked into wappatweaks). This file is copied to config/wappatweaks/presets.json on first launch; edit that copy in-game (Mods > Wappa Tweaks > Config > Edit Presets) or by hand - it always wins over the baked-in defaults. Each preset: disabledMods (jar filename globs, silently skipped by the loader; files never touched), options (options.txt key->value patches, applied next launch). Files under config/wappatweaks/presets/<id>/overlay/ are copied over the game dir on next launch.",
+  "presets": [
+    {
+      "id": "max",
+      "displayName": "Max",
+      "disabledMods": [],
+      "options": {
+        "graphicsMode": "1",
+        "renderDistance": "12",
+        "simulationDistance": "10",
+        "particles": "0"
+      }
+    },
+    {
+      "id": "high",
+      "displayName": "High",
+      "disabledMods": [
+        "grassiergrass-neoforge-[0-9]*.jar"
+      ],
+      "options": {}
+    },
+    {
+      "id": "medium",
+      "displayName": "Medium",
+      "disabledMods": [
+        "grassiergrass-neoforge-[0-9]*.jar",
+        "particlerain-[0-9]*.jar",
+        "softimprints-neoforge-[0-9]*.jar"
+      ],
+      "options": {}
+    },
+    {
+      "id": "low",
+      "displayName": "Low",
+      "disabledMods": [
+        "better-clouds-[0-9]*.jar",
+        "continuity-[0-9]*.jar",
+        "eg_particle_interactions-[0-9]*.jar",
+        "fallingleaves-[0-9]*.jar",
+        "iris-neoforge-[0-9]*.jar",
+        "notenoughanimations-neoforge-[0-9]*.jar",
+        "particlerain-[0-9]*.jar",
+        "softimprints-neoforge-[0-9]*.jar",
+        "wakes-[0-9]*.jar",
+        "windy-[0-9]*.jar"
+      ],
+      "options": {}
+    }
+  ],
+  "reducedMotion": {
+    "displayName": "Reduced Motion",
+    "disabledMods": [],
+    "options": {
+      "bobView": "false",
+      "screenEffectScale": "0",
+      "fovEffectScale": "0"
+    }
+  }
+}

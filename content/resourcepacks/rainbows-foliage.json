@@ -1,0 +1,24 @@
+{
+  "name": "rainbow's foliage: polytone",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "bY2CaVIh",
+      "pin": "a2zIOsX7",
+      "slug": "rainbows-foliage",
+      "versionId": "a2zIOsX7",
+      "versionNumber": "1.8",
+      "filename": "rainbows-foliage-polytone-edition-v1.8.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/bY2CaVIh/versions/a2zIOsX7/rainbows-foliage-polytone-edition-v1.8.zip",
+      "sha1": "747a453b48cbf8128f519b850b11d7efb8e9cd6f",
+      "sha512": "a42331ef07fa7e2152ced6d178283f9711ecb7158496f3ae17594886976c749b9db0e28bc9888d9319529971b662d2380bb888111a239ad1a49c261ad5dbde60",
+      "fileSize": 1159454
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

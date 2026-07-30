@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"recipe":"farmersdelight:shepherds_pie_block","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"simulated:mechanical_crafting/docking_connector","recipeType":"create:mechanical_crafting","bookmarkType":"RECIPE"}
+]

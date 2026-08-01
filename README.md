@@ -1,6 +1,6 @@
 # Wappa-5-Performance
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 221 mods, 23 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.235**, 222 mods, 23 resource packs
 
 ## Contents
 
@@ -15,6 +15,7 @@
 - [Abundant Atmosphere](https://modrinth.com/project/abundant-atmosphere) `1.21.1-2.0.0-beta2.1`
 - [Acedium Sodiumized](https://modrinth.com/project/acedium-sodiumized) `0.4.1+mc1.21.1`
 - [Aeronautics Wind Sound](https://modrinth.com/project/aeronautics-wind-sound) `1.0.1`
+- [AeroWear](https://modrinth.com/project/aerowear)
 - [Almanac](https://modrinth.com/project/almanac) `1.5.2`
 - [Alternate Current](https://modrinth.com/project/alternate-current) `neoforge-mc1.21-1.9.0`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.6`
@@ -66,7 +67,7 @@
 - [Create: Design n' Decor](https://modrinth.com/project/create-design-n-decor) `2.2b`
 - [Create: Extra Gauges](https://modrinth.com/project/extra-gauges) `2.1.2`
 - [Create: Framed](https://modrinth.com/project/create-framed) `1.8.2+1.21.1`
-- [Create: Hypertubes](https://modrinth.com/project/hypertube)
+- [Create: Hypertubes](https://modrinth.com/project/hypertube) `0.6.0`
 - [Create: Oxidized](https://modrinth.com/project/create_oxidized) `0.1.3`
 - [Create: Pattern Schematics](https://modrinth.com/project/create-pattern-schematics) `2.0.10`
 - [Create: Vibrant Vaults](https://modrinth.com/project/create-vibrant-vaults) `0.3.2`

@@ -1,6 +1,6 @@
 # Wappa-5-Performance
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 219 mods, 23 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.235**, 220 mods, 23 resource packs
 
 ## Contents
 
@@ -60,7 +60,7 @@
 - [Create Wet Cardboard](https://modrinth.com/project/create-wet-cardboard) `1.0.0`
 - [Create: Aeroworks](https://modrinth.com/project/create-aeroworks) `1.3.0+mc1.21.1`
 - [Create: Bits 'n' Bobs](https://modrinth.com/project/create-bits-n-bobs) `2.1.9-beta`
-- [Create: Coasters Simulated](https://modrinth.com/project/create-coasters-simulated)
+- [Create: Coasters Simulated](https://modrinth.com/project/create-coasters-simulated) `0.1`
 - [Create: Copycats+](https://modrinth.com/project/copycats) `3.0.4+mc.1.21.1-neoforge`
 - [Create: Deployer API](https://modrinth.com/project/deployer) `0.1.2`
 - [Create: Design n' Decor](https://modrinth.com/project/create-design-n-decor) `2.2b`
@@ -195,6 +195,7 @@
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
 - [Separate Sable Render Distance (Create Aeronautics Addon)](https://modrinth.com/project/ssrd) `1.8.1`
 - [Shoulder Surfing Reloaded](https://modrinth.com/project/shoulder-surfing-reloaded) `1.21.1-5.0.5+neoforge`
+- [Shutter Up!](https://modrinth.com/project/shutter-up)
 - [Simple Radio](https://modrinth.com/project/simple-radio) `1.21.1-4.5.7.9`
 - [Simple Radio Re-Created](https://modrinth.com/project/simple-radio-recreated) `1.0`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.20`

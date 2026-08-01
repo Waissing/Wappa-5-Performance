@@ -27,6 +27,7 @@
 - [Axiom](https://modrinth.com/project/axiom) `5.4.2`
 - [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.0`
 - [Balm](https://modrinth.com/project/balm) `21.0.62+neoforge-1.21.1`
+- [Better Block Entities](https://modrinth.com/project/better-block-entities)
 - [Better Ping Display [Forge/NeoForge]](https://modrinth.com/project/better-ping-display) `1.21.1-1.1`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.12`
 - [Blocks Abound](https://modrinth.com/project/blocks-abound) `0.2.0`
@@ -232,7 +233,6 @@
 - Truly Dark `trulydark-neoforge-1.21.1-2.1.0.jar` (curseforge)
 - [Undertale Death Screen](https://modrinth.com/project/undertale-death-screen) `1.3.3+1.20.6`
 - [Unusual End](https://modrinth.com/project/unusual_end) `2.3-neo-1.21.1`
-- [Vanillin](https://modrinth.com/project/flw-vanillin)
 - [Vanishmod](https://modrinth.com/project/vanishmod) `1.1.21`
 - [Wakes Reforged](https://modrinth.com/project/wakes-reforged) `1.3.6`
 - [WorldEdit](https://modrinth.com/project/worldedit) `7.3.8`

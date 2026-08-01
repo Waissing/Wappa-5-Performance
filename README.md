@@ -1,6 +1,6 @@
 # Wappa-5-Performance
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 218 mods, 23 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.235**, 219 mods, 23 resource packs
 
 ## Contents
 
@@ -27,7 +27,7 @@
 - [Axiom](https://modrinth.com/project/axiom) `5.4.2`
 - [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.0`
 - [Balm](https://modrinth.com/project/balm) `21.0.62+neoforge-1.21.1`
-- [Better Block Entities](https://modrinth.com/project/better-block-entities)
+- [Better Block Entities](https://modrinth.com/project/better-block-entities) `1.3.4-beta.3+mc1.21.1`
 - [Better Ping Display [Forge/NeoForge]](https://modrinth.com/project/better-ping-display) `1.21.1-1.1`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.12`
 - [Blocks Abound](https://modrinth.com/project/blocks-abound) `0.2.0`
@@ -60,6 +60,7 @@
 - [Create Wet Cardboard](https://modrinth.com/project/create-wet-cardboard) `1.0.0`
 - [Create: Aeroworks](https://modrinth.com/project/create-aeroworks) `1.3.0+mc1.21.1`
 - [Create: Bits 'n' Bobs](https://modrinth.com/project/create-bits-n-bobs) `2.1.9-beta`
+- [Create: Coasters Simulated](https://modrinth.com/project/create-coasters-simulated)
 - [Create: Copycats+](https://modrinth.com/project/copycats) `3.0.4+mc.1.21.1-neoforge`
 - [Create: Deployer API](https://modrinth.com/project/deployer) `0.1.2`
 - [Create: Design n' Decor](https://modrinth.com/project/create-design-n-decor) `2.2b`

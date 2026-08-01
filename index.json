@@ -1622,7 +1622,7 @@
                   },
                   {
                       "path":  "overrides/config/global_packs.toml",
-                      "sha1":  "b7c2575873548cfe0560d85f1641253714cc1159"
+                      "sha1":  "f058a9e9d5dcdd7ed00f38d7e128a29bf40b5e03"
                   },
                   {
                       "path":  "overrides/config/grapplemod-client.json",

@@ -1,6 +1,6 @@
 # Wappa-5-Performance
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 218 mods, 23 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.235**, 219 mods, 23 resource packs
 
 ## Contents
 
@@ -233,6 +233,7 @@
 - Truly Dark `trulydark-neoforge-1.21.1-2.1.0.jar` (curseforge)
 - [Undertale Death Screen](https://modrinth.com/project/undertale-death-screen) `1.3.3+1.20.6`
 - [Unusual End](https://modrinth.com/project/unusual_end) `2.3-neo-1.21.1`
+- [Vanillin](https://modrinth.com/project/flw-vanillin)
 - [Vanishmod](https://modrinth.com/project/vanishmod) `1.1.21`
 - [Wakes Reforged](https://modrinth.com/project/wakes-reforged) `1.3.6`
 - [WorldEdit](https://modrinth.com/project/worldedit) `7.3.8`

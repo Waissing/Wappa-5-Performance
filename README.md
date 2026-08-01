@@ -1,6 +1,6 @@
 # Wappa-5-Performance
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 219 mods, 23 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.235**, 218 mods, 23 resource packs
 
 ## Contents
 
@@ -67,7 +67,7 @@
 - [Create: Framed](https://modrinth.com/project/create-framed) `1.8.2+1.21.1`
 - [Create: Oxidized](https://modrinth.com/project/create_oxidized) `0.1.3`
 - [Create: Pattern Schematics](https://modrinth.com/project/create-pattern-schematics) `2.0.10`
-- [Create: Vibrant Vaults](https://modrinth.com/project/create-vibrant-vaults)
+- [Create: Vibrant Vaults](https://modrinth.com/project/create-vibrant-vaults) `0.3.2`
 - [Creature Feature](https://modrinth.com/project/creature-feature) `1.1.3`
 - [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `3.0.0+1.21`
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
@@ -86,7 +86,6 @@
 - [Exposure](https://modrinth.com/project/exposure) `1.9.18`
 - [Exposure Catalog](https://modrinth.com/project/exposure-catalog) `1.1.1`
 - [Exposure: Polaroid](https://modrinth.com/project/exposure-polaroid) `1.1.5`
-- [Fairy Lights](https://modrinth.com/project/fairylights) `1.2.6`
 - [Farcr's Better Dirt](https://modrinth.com/project/farcrs-better-dirt) `V1.2`
 - [Farcr's Better Dirt - Modded Compat](https://modrinth.com/project/farcrs-better-dirt-modded-compat) `1.04`
 - [Farcr's Re-Crafted](https://modrinth.com/project/farcrs-re-crafted) `2.28.1`
@@ -127,7 +126,6 @@
 - [Llama's Re-Wrench](https://modrinth.com/project/llamas-re-wrench) `1.1`
 - [Low On Fire](https://modrinth.com/project/low-on-fire) `26.2`
 - [Lucky's Wardrobe](https://modrinth.com/project/luckyowls-wardrobe) `2.0.0`
-- [M.R.U](https://modrinth.com/project/mru) `1.0.30+1.21.1-neoforge`
 - [Mannequins](https://modrinth.com/project/mannequins) `3.0.0-rc.1`
 - [MAtmos - Ambient sound](https://modrinth.com/project/matmos-ambient-sound) `7.4`
 - [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+neo-1.21`
@@ -139,6 +137,7 @@
 - [MoreJS: KubeJS Addon](https://modrinth.com/project/morejs) `1.21.1-0.16.0+neoforge`
 - [MossyLib](https://modrinth.com/project/mossylib) `1.5.0+1.21.1+neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
+- [MRU](https://modrinth.com/project/mru) `1.0.30+1.21.1-neoforge`
 - [Naturalist](https://modrinth.com/project/naturalist) `2.0.2+1.21.1-neoforge`
 - [Nature's Compass](https://modrinth.com/project/natures-compass) `1.21.1-3.4.0-neoforge`
 - [NetherPortalFix](https://modrinth.com/project/netherportalfix) `21.1.1+neoforge-1.21.1`
@@ -147,7 +146,7 @@
 - [No Man's Delight](https://modrinth.com/project/no-mans-delight) `2.2.0`
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.5.12`
 - [NoisiumForked](https://modrinth.com/project/noisiumforked) `2.7.0+mc1.21-1.21.1`
-- [Non-Directional Damage Tilt Fix](https://modrinth.com/project/nondirectionaldamagetiltfix) `2.0.1+b1.21.1`
+- [Nondirectional Damage Tilt Fix](https://modrinth.com/project/nondirectionaldamagetiltfix) `2.0.1+b1.21.1`
 - [Not Enough Animations](https://modrinth.com/project/not-enough-animations) `1.12.4`
 - [Ok Zoomer - It's Zoom!](https://modrinth.com/project/ok-zoomer) `10.0.0-beta.13+neo`
 - [Packet Fixer](https://modrinth.com/project/packet-fixer) `3.3.1`
@@ -193,7 +192,7 @@
 - [Sawmill](https://modrinth.com/project/universal-sawmill) `1.21-1.7.7`
 - [Scaffolding Drops Nearby](https://modrinth.com/project/scaffolding-drops-nearby) `1.21.1-3.4-fabric+forge+neo`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
-- [Separate Sable Render Distance (Aeronautics Addon)](https://modrinth.com/project/ssrd) `1.8.1`
+- [Separate Sable Render Distance (Create Aeronautics Addon)](https://modrinth.com/project/ssrd) `1.8.1`
 - [Shoulder Surfing Reloaded](https://modrinth.com/project/shoulder-surfing-reloaded) `1.21.1-5.0.5+neoforge`
 - [Simple Radio](https://modrinth.com/project/simple-radio) `1.21.1-4.5.7.9`
 - [Simple Radio Re-Created](https://modrinth.com/project/simple-radio-recreated) `1.0`

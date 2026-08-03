@@ -354,7 +354,7 @@
                   },
                   {
                       "path":  "content/mods/geckolib.json",
-                      "sha1":  "816ed2679a0da51a82c669c0204a629229d9f99b"
+                      "sha1":  "8529fe01b74e9ef3ff9cf8bfbbabf5713afe1d81"
                   },
                   {
                       "path":  "content/mods/globalpacks.json",
@@ -3143,6 +3143,38 @@
                   {
                       "path":  "overrides/resourcepacks/Wayfarer-Pack.zip",
                       "sha1":  "5b8bd9b8f08e1944da3f07ab8ab867b8bd59ad00"
+                  },
+                  {
+                      "path":  "content/mods/stohuns-vanity-collection.json",
+                      "sha1":  "1e548536fa82cff3645a05985c64c63938e0cf9d"
+                  },
+                  {
+                      "path":  "content/mods/vanity-aesthetic-armory.json",
+                      "sha1":  "0e4af6f9cec465b1425f8d754d8b1163cda3c0d5"
+                  },
+                  {
+                      "path":  "content/mods/vanity-ancient-tool-variants.json",
+                      "sha1":  "4fc605234bc136fb1da6c95a9dc8697cde0fdd18"
+                  },
+                  {
+                      "path":  "content/mods/vanity-colossal-weapons.json",
+                      "sha1":  "a8137e42b225daed524f71f67e2ae9fda19d5e04"
+                  },
+                  {
+                      "path":  "content/mods/vanity-core.json",
+                      "sha1":  "619b1f7f05ce9157aaf234e6922637a255306f85"
+                  },
+                  {
+                      "path":  "content/mods/vanity-deep-forged.json",
+                      "sha1":  "3ac650b85a6fe4464f249caa23e475c9c37f272c"
+                  },
+                  {
+                      "path":  "content/mods/vanity-ornate-weaponry.json",
+                      "sha1":  "a4c32c81e5dc93594c844a7a7d8e3ffe942341bf"
+                  },
+                  {
+                      "path":  "content/mods/vanity-statue-decoration.json",
+                      "sha1":  "8e3536999c70512dbc246cf8419792d984479167"
                   }
               ]
 }

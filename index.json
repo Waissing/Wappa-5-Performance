@@ -474,7 +474,7 @@
                   },
                   {
                       "path":  "content/mods/moonlight.json",
-                      "sha1":  "68f9ef751bb2e548edb8978d4b6e6dc814b88c8c"
+                      "sha1":  "3d06952abc65e1eaf14a9c3bf5083c8af1f3a2a6"
                   },
                   {
                       "path":  "content/mods/moreculling.json",
@@ -3175,6 +3175,18 @@
                   {
                       "path":  "content/mods/vanity-statue-decoration.json",
                       "sha1":  "8e3536999c70512dbc246cf8419792d984479167"
+                  },
+                  {
+                      "path":  "content/mods/vista_tv.json",
+                      "sha1":  "47db28618ff7de64f639968a60f1d05508dee8b5"
+                  },
+                  {
+                      "path":  "content/mods/vista-all-the-cassettes.json",
+                      "sha1":  "72583890a62feec97ce01bf502685bc723206268"
+                  },
+                  {
+                      "path":  "content/mods/vista-aeronautics-fix.json",
+                      "sha1":  "a42225bc6fa4a45c14b4f976f7d1d25fb439051e"
                   }
               ]
 }

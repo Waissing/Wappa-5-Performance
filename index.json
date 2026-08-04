@@ -3183,6 +3183,10 @@
                   {
                       "path":  "content/mods/vista-all-the-cassettes.json",
                       "sha1":  "9d5614bf3b01eca0d1701f1bc8b48534feb757d4"
+                  },
+                  {
+                      "path":  "content/mods/post-it.json",
+                      "sha1":  "b4eb7a08f821dc386dfcfa49bd0499a2e7075eda"
                   }
               ]
 }
